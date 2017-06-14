@@ -1,5 +1,5 @@
 #include<iostream>
-#include"gtest/gtest.h"
+//#include"gtest/gtest.h"
 #include"commission.h"
 
 int sellResult(int lock,int stock,int barrel)
